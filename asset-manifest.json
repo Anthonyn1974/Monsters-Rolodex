@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "AnthonyN1974.github.io/Monsters-Rolodex/static/css/main.9bde0972.chunk.css",
+    "main.js": "AnthonyN1974.github.io/Monsters-Rolodex/static/js/main.b62ac52a.chunk.js",
+    "main.js.map": "AnthonyN1974.github.io/Monsters-Rolodex/static/js/main.b62ac52a.chunk.js.map",
+    "runtime-main.js": "AnthonyN1974.github.io/Monsters-Rolodex/static/js/runtime-main.79b3e9b9.js",
+    "runtime-main.js.map": "AnthonyN1974.github.io/Monsters-Rolodex/static/js/runtime-main.79b3e9b9.js.map",
+    "static/js/2.1f3314c8.chunk.js": "AnthonyN1974.github.io/Monsters-Rolodex/static/js/2.1f3314c8.chunk.js",
+    "static/js/2.1f3314c8.chunk.js.map": "AnthonyN1974.github.io/Monsters-Rolodex/static/js/2.1f3314c8.chunk.js.map",
+    "index.html": "AnthonyN1974.github.io/Monsters-Rolodex/index.html",
+    "precache-manifest.33a22feb4fa4e896bb322409995e7c3f.js": "AnthonyN1974.github.io/Monsters-Rolodex/precache-manifest.33a22feb4fa4e896bb322409995e7c3f.js",
+    "service-worker.js": "AnthonyN1974.github.io/Monsters-Rolodex/service-worker.js",
+    "static/css/main.9bde0972.chunk.css.map": "AnthonyN1974.github.io/Monsters-Rolodex/static/css/main.9bde0972.chunk.css.map",
+    "static/js/2.1f3314c8.chunk.js.LICENSE.txt": "AnthonyN1974.github.io/Monsters-Rolodex/static/js/2.1f3314c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79b3e9b9.js",
+    "static/js/2.1f3314c8.chunk.js",
+    "static/css/main.9bde0972.chunk.css",
+    "static/js/main.b62ac52a.chunk.js"
+  ]
+}
